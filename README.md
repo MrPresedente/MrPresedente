@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrPresedente in Oneida, NY!
+- 👋 Hi, I’m @MrPresidente in Oneida, NY!
 
 <!---
-MrPresedente/MrPresedente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MrPresedinte/MrPresedinte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
